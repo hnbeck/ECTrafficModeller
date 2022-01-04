@@ -6,7 +6,7 @@ Later usage may be for simulation or analysis, but the first step of production 
 
 Archtectural decision are subject for change, but the start will be as follows:
 
-- [Processing](https://processing.org) as Graphical node
+- [Processing](https://processing.org) or [Godot](https://https://godotengine.org/) as Graphical node, AR/VR capable
 - [Logtalk](https://logtalk.org) with SWI Prolog backend for Structure manipulation node
 - [XMPP](https://xmpp.org) as communication means
 
