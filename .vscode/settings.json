@@ -1,0 +1,10 @@
+{
+    "logtalk.home.path": "$LOGTALKHOME",
+    "logtalk.executable.path": "C:\\dev\\swipl\\bin\\swipl.exe",
+    "logtalk.executable.arguments": [
+        "-s",
+        "C:\\dev\\Logtalk\\integration\\logtalk_swi.pl"
+    ],
+    "window.zoomLevel": 0,
+    "logtalk.user.path": "$LOGTALK_STARTUP_DIRECTORY"
+}

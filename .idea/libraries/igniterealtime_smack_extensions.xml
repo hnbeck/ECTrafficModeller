@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="igniterealtime.smack.extensions" type="repository">
+    <properties maven-id="org.igniterealtime.smack:smack-extensions:4.4.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/smack-extensions-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/smack-im-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/smack-core-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/smack-xmlparser-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxmpp-core-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxmpp-util-cache-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxmpp-jid-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/minidns-core-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

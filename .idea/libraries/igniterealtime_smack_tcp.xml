@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="igniterealtime.smack.tcp" type="repository">
+    <properties maven-id="org.igniterealtime.smack:smack-tcp:4.4.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/smack-tcp-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/smack-streammanagement-4.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
